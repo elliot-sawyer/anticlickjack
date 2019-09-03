@@ -1,0 +1,22 @@
+{
+    "name": "elliotsawyer/anticlickjack",
+    "type": "silverstripe-vendormodule",
+    "description": "Template shim to prevent clickjacking on a SilverStripe website",
+    "homepage": "http://silverstripe.org",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "silverstripe",
+        "clickjack",
+        "security",
+        "owasp"
+    ],
+    "authors": [
+        {
+            "name": "elliot sawyer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4"
+    },
+    "extra": []
+}

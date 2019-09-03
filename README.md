@@ -27,7 +27,7 @@ Copyright 2019 Elliot Sawyer. Released under BSD-3
 Contributions are more than welcome! Please raise some issues or create pull requests on the Github repo.
 
 ## support
---------
+
 Need some extra help or just love my work? Consider shouting me a coffee or a small donation if this module helped you solve a problem. I accept cryptocurrency at the following addresses:
 * Bitcoin: 12gSxkqVNr9QMLQMMJdWemBaRRNPghmS3p
 * Bitcoin Cash: 1QETPtssFRM981TGjVg74uUX8kShcA44ni
